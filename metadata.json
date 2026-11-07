@@ -1,0 +1,6 @@
+{
+  "name": "KubePulse",
+  "description": "Microservices, CI/CD pipelines & observability dashboard with Prometheus, Grafana, Kubernetes & Fluentd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
